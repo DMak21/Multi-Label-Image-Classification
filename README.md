@@ -5,8 +5,7 @@ Classes : ​['donuts', 'salad', 'lasagna', 'pancakes', 'pizza', 'risotto', 'cat
 'squirrel', 'daisy', 'dandelion', 'sunflower', 'rose', 'tulip'] 
 
 ### Training Dataset
-[LINK](https://drive.google.com/drive/folders/18BhzbaE4ykJ5ntSqefs_bKMehyKxUuma?usp=sh
-aring)
+[LINK](https://drive.google.com/drive/folders/18BhzbaE4ykJ5ntSqefs_bKMehyKxUuma?usp=sharing)
 
 ### CNN Architecture Used
 
