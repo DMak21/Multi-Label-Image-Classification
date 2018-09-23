@@ -23,5 +23,3 @@ Classes : ​['donuts', 'salad', 'lasagna', 'pancakes', 'pizza', 'risotto', 'cat
 
 
 **For Implementation refer [notebook](notebook.ipynb)**
-
-Training Accuracy Achieved: 70%
